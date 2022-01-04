@@ -1,4 +1,5 @@
 # angularbuild
+<<<<<<< HEAD
 hello world!!!!!
 git init A
 
@@ -16,3 +17,9 @@ git status
 git add .
 git commit -m "changes done from repo A"
 
+=======
+cd ../B
+git add .
+git commit -m "changes done from repo B"
+git push 
+>>>>>>> c5b6ec6 (Commit from repo B)
